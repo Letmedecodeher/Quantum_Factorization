@@ -46,9 +46,9 @@ Run the script:
 
 python shors_algorithm.py
 
-Example Execution (N = 21):
+Example Execution (N = 143):
 
-Factors of 21: 3, 7
+Factors of 143: 11, 13
 
 Challenges Faced
 
